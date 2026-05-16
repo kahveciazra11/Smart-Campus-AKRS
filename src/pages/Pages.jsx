@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import ReservationCard from '../components/Components';
-import { createReservationObject } from '../interfaces/interfaces';
+import { createReservationObject } from '../interfaces/Interfaces';
 
 function SmartCampus() {
   
